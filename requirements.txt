@@ -1,0 +1,55 @@
+# ==========================================
+# Cardiovascular Disease Prediction
+# Requirements
+# ==========================================
+
+# Core Libraries
+numpy>=1.26.0
+pandas>=2.2.2
+
+# Machine Learning
+scikit-learn>=1.5.1
+joblib>=1.4.2
+
+# Deep Learning
+tensorflow>=2.17.0
+
+# Data Visualization
+matplotlib>=3.9.1
+seaborn>=0.13.2
+
+# Web Framework
+Flask>=3.0.3
+Werkzeug>=3.0.3
+
+# Scientific Computing
+scipy>=1.14.0
+
+# Image Processing
+Pillow>=10.4.0
+
+# Progress Bar
+tqdm>=4.66.5
+
+# Notebook Support
+jupyter>=1.0.0
+notebook>=7.2.1
+ipykernel>=6.29.5
+
+# Model Explainability (Optional)
+shap>=0.46.0
+
+# Environment Variables
+python-dotenv>=1.0.1
+
+# HTTP Requests
+requests>=2.32.3
+
+# Utilities
+colorama>=0.4.6
+
+# Serialization
+pickle-mixin>=1.0.2
+
+# Deployment
+gunicorn>=22.0.0
